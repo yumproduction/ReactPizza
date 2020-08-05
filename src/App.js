@@ -10,7 +10,7 @@ import store from './redux/redux-store';
 
 const App = (props) => {
   return (
-    <HashRouter>
+    <HashRouter basename={process.env.PUBLIC_URL}>
       <Provider store = {store}>
         <div className="App">
           <div className='wrapper'>
