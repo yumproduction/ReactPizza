@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/ReactPizza/static/css/main.0f24f101.chunk.css",
+    "main.js": "/ReactPizza/static/js/main.04f4a1d4.chunk.js",
+    "main.js.map": "/ReactPizza/static/js/main.04f4a1d4.chunk.js.map",
+    "runtime-main.js": "/ReactPizza/static/js/runtime-main.0722ef0b.js",
+    "runtime-main.js.map": "/ReactPizza/static/js/runtime-main.0722ef0b.js.map",
+    "static/js/2.b968cb57.chunk.js": "/ReactPizza/static/js/2.b968cb57.chunk.js",
+    "static/js/2.b968cb57.chunk.js.map": "/ReactPizza/static/js/2.b968cb57.chunk.js.map",
+    "index.html": "/ReactPizza/index.html",
+    "precache-manifest.eaa32c63b62701794475f63e34b87783.js": "/ReactPizza/precache-manifest.eaa32c63b62701794475f63e34b87783.js",
+    "service-worker.js": "/ReactPizza/service-worker.js",
+    "static/css/main.0f24f101.chunk.css.map": "/ReactPizza/static/css/main.0f24f101.chunk.css.map",
+    "static/js/2.b968cb57.chunk.js.LICENSE.txt": "/ReactPizza/static/js/2.b968cb57.chunk.js.LICENSE.txt",
+    "static/media/black_cart.svg": "/ReactPizza/static/media/black_cart.c6fdc557.svg",
+    "static/media/cancel.svg": "/ReactPizza/static/media/cancel.ae0815b8.svg",
+    "static/media/cart.svg": "/ReactPizza/static/media/cart.11883816.svg",
+    "static/media/empty.svg": "/ReactPizza/static/media/empty.cb319821.svg",
+    "static/media/face.svg": "/ReactPizza/static/media/face.3bf5a3d7.svg",
+    "static/media/garbage.svg": "/ReactPizza/static/media/garbage.5d7ef77b.svg",
+    "static/media/logo.svg": "/ReactPizza/static/media/logo.91542c76.svg",
+    "static/media/pizza1.jpg": "/ReactPizza/static/media/pizza1.65ea14b3.jpg",
+    "static/media/pizza2.jpg": "/ReactPizza/static/media/pizza2.9ec65e7c.jpg",
+    "static/media/pizza3.jpg": "/ReactPizza/static/media/pizza3.62b07402.jpg",
+    "static/media/pizza4.jpg": "/ReactPizza/static/media/pizza4.605e4f83.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0722ef0b.js",
+    "static/js/2.b968cb57.chunk.js",
+    "static/css/main.0f24f101.chunk.css",
+    "static/js/main.04f4a1d4.chunk.js"
+  ]
+}
